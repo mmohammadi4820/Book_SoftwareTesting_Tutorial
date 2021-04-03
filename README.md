@@ -370,7 +370,7 @@ And these testing tools can control the execution of tests, access the test data
   <img width="320" height="320" src="https://raw.githubusercontent.com/mmohammadi4820/Book_SoftwareTesting_Tutorial/main/Authors/MahsaMohammadi.jpeg">
 </p>
 
-Coming soon...
+I graduated in computer software engineering, also, I have been worked for two and a half at Irisa Company which is worked with oracle database and oracle form builder and report then I analyzed data. Because I am interested in AI and data mining so I decided to get this way with python programming and machine learning.
 
 #### My main research interests
 - Artificial Intelligence, Machine Learning
